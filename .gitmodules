@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/nghiaagent/nghiaagent.r-universe.dev
 	branch = HEAD
+[submodule "nghiaagentrutils"]
+	path = nghiaagentrutils
+	url = https://github.com/nghiaagent/nghiaagentrutils
